@@ -18,5 +18,4 @@ To run this code simply run the python code
 
 nothing special
 
-Achmad
-Ratih
+Achmad - Ratih
