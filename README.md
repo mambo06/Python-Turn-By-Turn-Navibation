@@ -1,4 +1,4 @@
-# Python-Turn-By-Turn-Navibation
+# PythonTurnByTurnNavigationRouting
 
 The easiest way to create a turn by turn navigaton routing under python. 
 This routing is compatible wtih Mapbox Directions SDK V5
